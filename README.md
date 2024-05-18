@@ -175,7 +175,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For further information or inquiries, please contact [jeremiahwafula01@gmail.com](mailto:[jeremiahwafula01@gmail.com).
-
----
-
-This README provides a thorough overview of the project, setup instructions, and usage details, making it easy for others to understand and contribute to the project.
