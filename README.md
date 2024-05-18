@@ -33,7 +33,7 @@ The Task Management System API is a robust and scalable solution designed to man
 
 ### Prerequisites
 
-- Java 11
+- Java 17
 - Maven or Gradle
 - PostgreSQL
 - Docker (optional, for containerization)
